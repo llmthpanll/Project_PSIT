@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" modified="2021-10-28T12:23:23.149Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.30" etag="HSNmIpVDjmXjaRvRMExe" version="15.6.1" type="github">
+  <diagram id="xE92BOziDg-dwzG75mQk" name="Page-1">
+    <mxGraphModel dx="734" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4vAEgKELj8GwyxYE_OjA-2" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="160" y="100" width="360" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="IHcfMoh4JgweVDUSAH4X-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#007FFF;" parent="4vAEgKELj8GwyxYE_OjA-2" vertex="1">
+          <mxGeometry width="360" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="IHcfMoh4JgweVDUSAH4X-2" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=#403D99;" parent="4vAEgKELj8GwyxYE_OjA-2" vertex="1">
+          <mxGeometry x="125" y="100" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IHcfMoh4JgweVDUSAH4X-3" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=#403D99;" parent="4vAEgKELj8GwyxYE_OjA-2" vertex="1">
+          <mxGeometry x="125" y="170" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IHcfMoh4JgweVDUSAH4X-4" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=#403D99;" parent="4vAEgKELj8GwyxYE_OjA-2" vertex="1">
+          <mxGeometry x="125" y="240" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IHcfMoh4JgweVDUSAH4X-5" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=#403D99;" parent="4vAEgKELj8GwyxYE_OjA-2" vertex="1">
+          <mxGeometry x="125" y="300" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IHcfMoh4JgweVDUSAH4X-6" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#FFA040;" parent="4vAEgKELj8GwyxYE_OjA-2" vertex="1">
+          <mxGeometry x="120" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IHcfMoh4JgweVDUSAH4X-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="4vAEgKELj8GwyxYE_OjA-2" vertex="1">
+          <mxGeometry x="155" y="30" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IHcfMoh4JgweVDUSAH4X-8" value="&lt;span id=&quot;docs-internal-guid-00cefe0e-7fff-9f89-68ff-d8086bf7aacb&quot;&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;ของที่จะ stock&lt;/span&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="4vAEgKELj8GwyxYE_OjA-2" vertex="1">
+          <mxGeometry x="130" y="80" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IHcfMoh4JgweVDUSAH4X-9" value="&#xa;&#xa;&lt;b style=&quot;font-weight: normal&quot; id=&quot;docs-internal-guid-ca5fc579-7fff-4a4c-e469-c92d0c38cde0&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;จำนวนสินค้าที่ขาย&lt;/span&gt;&lt;/b&gt;&#xa;&#xa;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="4vAEgKELj8GwyxYE_OjA-2" vertex="1">
+          <mxGeometry x="120" y="150" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IHcfMoh4JgweVDUSAH4X-10" value="&#xa;&#xa;&lt;b style=&quot;font-weight: normal&quot; id=&quot;docs-internal-guid-25b6254c-7fff-7f5e-d974-3c90029d26c1&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;ราคาสินค้าต้นทุน&lt;/span&gt;&lt;/b&gt;&#xa;&#xa;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="4vAEgKELj8GwyxYE_OjA-2" vertex="1">
+          <mxGeometry x="120" y="220" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IHcfMoh4JgweVDUSAH4X-11" value="&#xa;&#xa;&lt;b style=&quot;font-weight: normal&quot; id=&quot;docs-internal-guid-76800ddc-7fff-8a58-8bf8-78900da54b07&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;ราคาสินค้าที่ขาย&lt;/span&gt;&lt;/b&gt;&#xa;&#xa;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="4vAEgKELj8GwyxYE_OjA-2" vertex="1">
+          <mxGeometry x="120" y="280" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IHcfMoh4JgweVDUSAH4X-12" value="Calculate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="4vAEgKELj8GwyxYE_OjA-2" vertex="1">
+          <mxGeometry x="120" y="370" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4vAEgKELj8GwyxYE_OjA-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="160" y="560" width="360" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="4vAEgKELj8GwyxYE_OjA-4" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=#403D99;" vertex="1" parent="1">
+          <mxGeometry x="285" y="640" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4vAEgKELj8GwyxYE_OjA-6" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=#403D99;" vertex="1" parent="1">
+          <mxGeometry x="285" y="750" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4vAEgKELj8GwyxYE_OjA-7" value="&#xa;&#xa;&lt;b style=&quot;font-weight: normal&quot; id=&quot;docs-internal-guid-6a220459-7fff-7bf4-e39b-6d5dc6d45baf&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;กำไร&lt;/span&gt;&lt;/b&gt;&#xa;&#xa;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="720" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4vAEgKELj8GwyxYE_OjA-21" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#FFA040;" vertex="1" parent="1">
+          <mxGeometry x="280" y="830" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4vAEgKELj8GwyxYE_OjA-35" value="return" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="840" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4vAEgKELj8GwyxYE_OjA-37" value="&lt;b style=&quot;font-weight: normal&quot; id=&quot;docs-internal-guid-b1dfe2ca-7fff-40e1-e5f4-f00a6324d87a&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;ราคาที่ต้องสั่งมา stock&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="610" width="160" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
