@@ -1,25 +1,25 @@
 import tkinter as tk
 
-root = tk.Tk()
-root["bg"] = "#6022f5"
-#เปิดแอพตรงกลาง
-root.resizable(False, False)  # This code helps to disable windows from resizing
-window_height = 568
-window_width = 320
-screen_width = root.winfo_screenwidth()
-screen_height = root.winfo_screenheight()
-x_cordinate = int((screen_width/2) - (window_width/2))
-y_cordinate = int((screen_height/2) - (window_height/2))
-root.geometry("{}x{}+{}+{}".format(window_width, window_height, x_cordinate, y_cordinate))
+app = tk.Tk()
+app["bg"] = "#6022f5"
+#กำหนดขนาดโปรแกรม
+app.resizable(False, False)
+app_width = 320
+app_height = 568
+screen_width = app.winfo_screenwidth()
+screen_height = app.winfo_screenheight()
+mid_screen_width = int((screen_width/2)-(app_width/2))
+mid_screen_height = int((screen_height/2)-(app_height/2))
+#ตั้งให้โปรแกรมอยู่กลางหน้าจอ
+app.geometry("%sx%s+%s+%s" %(app_width,app_height,mid_screen_width,mid_screen_height))
 
-#photo = tk.PhotoImage(file="icon.png")
 #ข้อความ
-root.option_add("*Font", "FCHomeThin 15")
-tk.Label(root, text="ใส่ตัวเลข",fg="white",bg="#6022f5").pack(pady=10)
-tk.Label(root, text="ใส่ตัวเลข2",fg="white",bg="#6022f5").pack(pady=10)
-root.title("Stock Income")
+app.option_add("*Font", "FCHomeThin 14")
+tk.Label(app, text="ใส่ตัวเลข",fg="white",bg="#6022f5").pack(pady=10)
+tk.Label(app, text="ใส่ตัวเลข2",fg="white",bg="#6022f5").pack(pady=10)
+app.title("Stock Income")
 
 #ปุ่ม
-btn = tk.Button(root, text="คำนวณ ").pack()
+btn = tk.Button(app, text="คำนวณ ").pack()
 
-root.mainloop()
+app.mainloop()
