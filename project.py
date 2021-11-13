@@ -14,8 +14,6 @@ mid_screen_height = int((screen_height/2)-(app_height/2))
 #ตั้งให้โปรแกรมอยู่กลางหน้าจอ
 app.geometry("%sx%s+%s+%s" %(app_width,app_height,mid_screen_width,mid_screen_height))
 
-
-
 input_frame = Frame(app, bg="#6022f5")
 input_frame.pack()
 #จำนวนสินค้าที่ต้องการสต็อค
@@ -43,11 +41,9 @@ def calculation():
     amount = int(txt2.get())
     show = amount*price
     en1.insert(0, show)
+
 #ปุ่ม
 btn = Button(input_frame, text="คำนวณ",font=18, command=calculation).pack(pady=10)
-
-
-
 
 #แสดงผล
 output_frame = Frame(app)
@@ -55,4 +51,5 @@ output_frame.pack()
 Label(output_frame, text="รายได้",fg="white",bg="#6022f5",font=18).grid(row=0,column=0)
 en1 = Entry(output_frame,font=18)
 en1.grid(row=0,column=1)
+
 app.mainloop()
